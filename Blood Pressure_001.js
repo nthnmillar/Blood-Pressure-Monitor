@@ -2211,16 +2211,16 @@ p.nominalBounds = new cjs.Rectangle(177.5,110,1554,842.6);
 	// All
 	this.instance = new lib.All("synched",0,false);
 	this.instance.parent = this;
-	this.instance.setTransform(456.8,423.2,0.75,0.75,0,0,0,270.4,518.8);
+	this.instance.setTransform(255,415,0.87,0.87,0,0,0,270.4,518.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(289));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(1347,539,1165.6,630.4);
+p.nominalBounds = new cjs.Rectangle(1028.1,482,1352.5,731.3);
 // library properties:
 lib.properties = {
 	id: '0478CC66A0B90643A768DF9973165D12',
-	width: 1920,
+	width: 1708,
 	height: 845,
 	fps: 25,
 	color: "#FFFFFF",
